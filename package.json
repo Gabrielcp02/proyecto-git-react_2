@@ -1,7 +1,7 @@
 {
   "name": "react_proyect",
   "version": "0.1.0",
-  "homepage": "https://Gabrielcp02.github.io/proyecto-git-react_2.git",
+  "homepage": "https://Gabrielcp02.github.io/proyecto-git-react_2",
   "private": true,
   "dependencies": {
     "@testing-library/dom": "^10.4.0",
